@@ -46,4 +46,4 @@ setInterval(() => {
 	// Find the answer and click it every 100ms
 	Session.answerQuestion();
 
-}, 100);
+}, 2000);
